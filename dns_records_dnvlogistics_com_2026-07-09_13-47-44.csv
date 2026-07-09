@@ -1,0 +1,10 @@
+﻿name,type,value,ttl,priority,weight,port,title,flags,tag
+@,A,185.199.108.153,3600,10,,,,,
+@,A,185.199.109.153,3600,10,,,,,
+@,A,185.199.110.153,3600,10,,,,,
+@,A,185.199.111.153,3600,10,,,,,
+www,CNAME,tconghanh.github.io,3600,10,,,,,
+@,TXT,v=spf1 include:spf.protection.outlook.com -all,3600,0,,,,,
+autodiscover,CNAME,autodiscover.outlook.com,3600,0,,,,,
+@,MX,dnvlogistics-com.mail.protection.outlook.com,3600,0,,,,,
+@,TXT,MS=ms52987587,3600,10,,,,,
